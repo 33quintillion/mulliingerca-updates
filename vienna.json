@@ -1,5 +1,11 @@
 {
  "app": "Mulliinger",
  "what": "Licence and update files for Mulliinger. Each one is signed with the seller's key and locked to one computer.",
- "at": "2026-11-03T18:15:07.684Z"
+ "at": "2026-11-03T18:19:14.717Z",
+ "ci": {
+  "f": "vienna-ci-1",
+  "iv": "OsYxGcPhFg8VVUIO",
+  "tag": "IQujtBnqj8/YERCpGwtRkw==",
+  "d": "uxBwmGrfAQfaHAGcL3BJsqh1gbJzijqZBVS9bddEngS/8Dz+oEYqcumQ/OipON8NJW7/G0WyNg9rTQTlCUufVzR3i+XEqp1FBevGrNsjePWWLJNnDvhaAqVdmn48/JS9sarOl3fEVjcTLpJY4IuABUKgIgZqTYUg4nHsNzMnAbR+H5xGlk9UNNSE7oaxqRQs4qV16L4LUyCocqZlXOJ8UPJ7G4KjmsSC3sMfvzVQRbwZpvhqxHs/auEfnz8v8Qs1SROmsa7joslA1503yQbf5egsjtusCOOt55n1fDMXJgkMkNUQGspQk720Zmevct6uq4tKgXp0lJBW7lBOy1RSgVTzEsmuPoLFYzw8w3T5FPqhWncW/8a9iin7bazuawsCUVxRJJAzHA8qtpcHy/6po2K4y1J2aydv463xvSgF03UglS7dkjHabwHk8cwCai+BTCMaxyosLzkVlNFhVUHJHBG/jZ/2"
+ }
 }
